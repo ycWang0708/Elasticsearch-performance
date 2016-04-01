@@ -1,0 +1,2 @@
+﻿1.logstash上传至elasticsearch时候的带宽占用
+2.为何每秒1000笔上传却只有100笔
