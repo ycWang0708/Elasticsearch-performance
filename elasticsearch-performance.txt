@@ -1,2 +1,5 @@
-﻿1.logstash上传至elasticsearch时候的带宽占用
-2.为何每秒1000笔上传却只有100笔
+﻿硬盘 1TB 
+elasticsearch-http-basic就提供了针对ES HTTP连接的IP白名单、密码权限和信任代理功能
+Logstash（应用服务器、网关）-elasticsearch集群（两台服务器）-浏览器
+测试性能-一天业务量多少G-需要的硬件
+需要suse及其，部署好启，停脚本                                               
